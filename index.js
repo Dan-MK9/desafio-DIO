@@ -33,4 +33,3 @@ switch (true) {
     case xp >= 10000:
         console.log("O herói de nome " + heroi + " está no elo RADIANTE, o mais alto elo com " + xp + " xp!") 
 }
-
